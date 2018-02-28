@@ -106,10 +106,10 @@ url-pretty: "My Github profile"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-114901753-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-T2LNFQN"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
