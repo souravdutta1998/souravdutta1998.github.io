@@ -4,9 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sourav Dutta. I am a student pursuing engineering degree majoring in Computer Sciencea and Engineering. I have the following qualities:
 
-- I rock a great mustache
+- I'm well versed with C and C++ languages
 - I'm extremely loyal to my family
 
 What else do you need?
