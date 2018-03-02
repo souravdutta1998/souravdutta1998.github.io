@@ -7,7 +7,7 @@ title: WhenImmunize
 
 ![logo](https://static1.squarespace.com/static/5612c70ae4b033aa912eca98/t/5633e1eae4b0e1e1577ccb14/1446240746798/wi-logo.png?format=300w)
 
-_WhenImmunize is a reminder setter app for parents who are willing to know when their child need to be vaccinated._
+> _WhenImmunize is a reminder setter app for parents who are willing to know when their child need to be vaccinated._
 
 All one needs to do is register the child's details on the **_New Registration_** intent, and it will automatically send you reminder notifications when the next vaccination date approaches.
 
