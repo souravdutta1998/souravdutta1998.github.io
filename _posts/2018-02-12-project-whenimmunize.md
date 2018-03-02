@@ -2,6 +2,7 @@
 layout: post
 title: Project - WhenImmunize
 image: /img/wi_logo.png
+tags: [android]
 ---
 ## The Reminder App for Vaccinations
 ## [DOWNLOAD APP (.apk file)](https://drive.google.com)
