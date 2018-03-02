@@ -2,12 +2,7 @@
 layout: page
 title: WhenImmunize
 ---
-
-navbar-links:
-
-avatar: "/img/wi.logo.png"
-
-## WhenImmunize - reminder app 
+## The Reminder App for Vaccinations
 ## [DOWNLOAD APP (.apk file)](https://drive.google.com)
 
 WhenImmunize is a reminder setter app for parents who are willing to know when their child need to be vaccinated.
