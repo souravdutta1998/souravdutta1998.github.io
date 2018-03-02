@@ -6,11 +6,10 @@ subtitle: Have a look!
 
 This page is under construction at the moment. 
 
-## WhenImmunize - reminder app
+## WhenImmunize - reminder app [DOWNLOAD APP (.apk file)](https://drive.google.com)
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![LOGO]("/img/wi_logo.png")
 
-[DOWNLOAD APP (.apk file)](https://drive.google.com)
 WhenImmunize is a reminder setter app for parents who are willing to know when their child need to be vaccinated.
 
 All one needs to do is register the child's details on the **New Registration** intent, and it will automatically send you reminder notifications when the next vaccination date approaches.
