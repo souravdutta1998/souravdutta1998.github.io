@@ -22,11 +22,6 @@ Link will be available for download soon!
 
 **Please note that notifications will be sent at 9 A.M. IST.**
 
-**-----------------------------------------------------------------**
-We're always excited to hear from you! If you have any feedback, questions, or concerns, please email us at : souravdutta1998@gmail.com
-
-**-----------------------------------------------------------------**
-
 > Version : 1.0.0
 >
 > Android versions supported : Marshmallow(6.0)-API 23 and above
@@ -36,3 +31,8 @@ We're always excited to hear from you! If you have any feedback, questions, or c
 > Developer: Sourav Dutta 
 >
 > Developer email: souravdutta1998@gmail.com
+
+-----------------------------------------------------------------
+We're always excited to hear from you! If you have any feedback, questions, or concerns, please email us at : souravdutta1998@gmail.com
+
+-----------------------------------------------------------------
