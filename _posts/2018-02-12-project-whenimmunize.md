@@ -17,7 +17,7 @@ tags: [android]
 
 * Parents can even _login_ to **see all their next vaccination dates** and registration details of the child. 
 
-* The extra feature of this app is that you can even **know the names of the vaccinations** after logging in. This is help you to know what exactly vaccines does your child needs.
+* The extra features of this app is that you can even **know the names of the vaccinations** after logging in, and also view the **Immunization Schedule**. This will help you to know what exactly vaccines does your child needs.
 
 **Please note that notifications will be sent at 9 A.M. IST.**
 
