@@ -5,7 +5,7 @@ image: /img/wi_logo.png
 tags: [android]
 ---
 ## The Reminder App for Vaccinations
-## [DOWNLOAD APP (.apk file)](https://drive.google.com/uc?id=1P7YPzMqRW67GxCD6KuGWoey4BU1raKUe&export=download) 
+## [DOWNLOAD APP (.apk file)](https://goo.gl/mZSX36) 
 
 > _WhenImmunize is a FREE reminder setter app available for Android smartphones. It is useful for parents who wants to know when and what vaccinations their child needs. **WhenImmunize does not require internet connection.**_
 
