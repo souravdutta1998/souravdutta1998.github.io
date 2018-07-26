@@ -17,7 +17,7 @@ tags: [android]
 
 * Parents can even _login_ to **see all their next vaccination dates** and registration details of the child. 
 
-* The extra features of this app is that you can even **know the names of the vaccinations** after logging in, and also view the **Immunization Schedule**. This will help you to know what exactly vaccines does your child needs.
+* The extra features of this app are that you can even **know the names of the vaccinations** after logging in, and also view the **Immunization Schedule**. This will help you to know what exactly vaccines does your child needs.
 
 **Please note that notifications will be sent at 9 A.M. IST.**
 
@@ -25,7 +25,7 @@ tags: [android]
 >
 > Android versions supported : Marshmallow(6.0)-API 23 and above
 >
-> Download size: _will be updated soon_
+> Download size: 20.1 MB
 >
 > Developer: Sourav Dutta 
 >
